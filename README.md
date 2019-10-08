@@ -1,6 +1,13 @@
 # pdf-service
 A nodejs api to generate PDF file from HTML
 
+Once you clone the repository, run the following commands:
+
+```
+npm install
+npm start
+```
+
 ## Sample HTML to PDF request
 ```
 curl --request POST \
